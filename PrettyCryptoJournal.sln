@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrettyCryptoJournal", "PrettyCryptoJournal\PrettyCryptoJournal.csproj", "{A74226A6-AA36-475E-A889-B8ED5199390F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A74226A6-AA36-475E-A889-B8ED5199390F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A74226A6-AA36-475E-A889-B8ED5199390F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A74226A6-AA36-475E-A889-B8ED5199390F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A74226A6-AA36-475E-A889-B8ED5199390F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2786185C-DF4A-40B4-B84F-FCD0E3B5CB09}
+	EndGlobalSection
+EndGlobal
