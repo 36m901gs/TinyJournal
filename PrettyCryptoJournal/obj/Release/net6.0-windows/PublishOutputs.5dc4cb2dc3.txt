@@ -1,0 +1,6 @@
+C:\Users\njiso\source\repos\TinyJournal\published\PrettyCryptoJournal.exe
+C:\Users\njiso\source\repos\TinyJournal\published\PrettyCryptoJournal.dll
+C:\Users\njiso\source\repos\TinyJournal\published\PrettyCryptoJournal.deps.json
+C:\Users\njiso\source\repos\TinyJournal\published\PrettyCryptoJournal.runtimeconfig.json
+C:\Users\njiso\source\repos\TinyJournal\published\PrettyCryptoJournal.pdb
+C:\Users\njiso\source\repos\TinyJournal\published\ICSharpCode.AvalonEdit.dll
