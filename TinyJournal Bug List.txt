@@ -1,0 +1,6 @@
+TinyJournal Bug List
+--------------------------------
+
+1. Can't exit out of program without entering a correct password
+2. backspaces in camo mode don't register as backspaces, but characters
+3. Spaces in camo mode register as characters. Need to fix this shit too.
